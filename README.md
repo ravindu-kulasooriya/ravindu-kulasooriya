@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hybHMzejd3dmsxMHJsY3c0YjgzM2xiZW4yaGF2ejNseGJidTVhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BVfki8qlyt4saPJ2mx/giphy.gif" width="20%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hybHMzejd3dmsxMHJsY3c0YjgzM2xiZW4yaGF2ejNseGJidTVhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BVfki8qlyt4saPJ2mx/giphy.gif" width="25%" />
 </p>
 
 # Hi there 👋 I'm Ravindu
 
 🎓 Software Engineering Undergraduate  
-💻 Full-Stack Developer 
+💻 Full-Stack Developer
 🚀 Capable of building scalable web and mobile solutions
 
 I specialize in developing **web and mobile applications**, working across both **frontend and backend**, and building scalable systems using modern frameworks and databases.
