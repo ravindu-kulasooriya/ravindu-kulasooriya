@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hybHMzejd3dmsxMHJsY3c0YjgzM2xiZW4yaGF2ejNseGJidTVhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BVfki8qlyt4saPJ2mx/giphy.gif" width="40%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hybHMzejd3dmsxMHJsY3c0YjgzM2xiZW4yaGF2ejNseGJidTVhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BVfki8qlyt4saPJ2mx/giphy.gif" width="20%" />
 </p>
 
 # Hi there 👋 I'm Ravindu
