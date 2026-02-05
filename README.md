@@ -5,8 +5,8 @@
 # Hi there 👋 I'm Ravindu
 
 🎓 Software Engineering Undergraduate  
-💻 Full-Stack Developer
-🚀 Capable of building scalable web and mobile solutions
+💻 Full-Stack Developer  
+🚀 Capable of building scalable web and mobile solutions  
 
 I specialize in developing **web and mobile applications**, working across both **frontend and backend**, and building scalable systems using modern frameworks and databases.
 
