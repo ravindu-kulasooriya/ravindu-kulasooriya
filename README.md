@@ -4,11 +4,11 @@
 
 # Hi there 👋 I'm Ravindu
 
-🎓 Software Engineering Undergraduate  
+🎓 Software Engineering Undergraduate at Birmingham City University  
 💻 Full-Stack Developer  
-🚀 Capable of building scalable web and mobile solutions  
+🚀 Passionate about building scalable web and mobile solutions  
 
-I specialize in developing **web and mobile applications**, working across both **frontend and backend**, and building scalable systems using modern frameworks and databases.
+I specialize in developing full-stack web and mobile applications, working across both frontend and backend technologies to build scalable and practical solutions. I enjoy turning ideas into real-world applications using modern frameworks, tools, and databases while continuously improving my technical and problem-solving skills.
 
 ---
 
@@ -28,14 +28,6 @@ I specialize in developing **web and mobile applications**, working across both 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 </p>
-
----
-
-## 🚀 What I Build
-✅ Web Applications  
-✅ Mobile Applications  
-✅ REST APIs & Backend Services  
-✅ Full-Stack Systems  
 
 ---
 
