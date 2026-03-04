@@ -14,9 +14,9 @@ I specialize in developing full-stack web and mobile applications, working acros
 
 ## 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,php" />
 </p>
 
 ### Frameworks & Technologies
