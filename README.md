@@ -4,7 +4,7 @@
 
 # Hi there 👋 I'm Ravindu
 
-🎓 Software Engineering Undergraduate at Birmingham City University  
+🎓 Software Engineering Graduate at Birmingham City University  
 💻 Full-Stack Developer  
 🚀 Passionate about building scalable web and mobile solutions  
 
